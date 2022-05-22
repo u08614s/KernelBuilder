@@ -1,0 +1,5 @@
+lis r9,0x1000
+lis r10,0x1234
+ori r10,r10,0x5678
+stw r10,0(r9)
+blr

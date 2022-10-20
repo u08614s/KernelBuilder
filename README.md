@@ -1,5 +1,5 @@
 # KernelBuilder
-Convert assembly to kernelcode
+アセンブリからカーネルコードに変換します。
 
 # How to build
-edit main.txt and execute KernelBuilder.py
+main.txtを編集し、KernelBuilder.pyを実行します
